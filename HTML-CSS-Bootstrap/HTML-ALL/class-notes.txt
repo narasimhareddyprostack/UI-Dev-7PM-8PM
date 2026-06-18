@@ -1,0 +1,25 @@
+HTML Tag/Element Categoris
+----------------------------
+Document Tags :      html,head,body,title,meta,style,link,script
+Structure Tags:      div,nav,header,footer,section,article
+Text Formating Tags: h1,h2,h3,h4,h5,h6,p,strong,i,span,b
+Images Tags        : <img />
+Link Tags	   : <a></a>
+List Tags:         : ul,ol,li
+Table Tags:	   : table,thead,tbody,th,tr,td
+Form Tags:         : form,label,input,button,textarea,select,otpion
+		     textarea
+frame Tags:        : iframe
+HTML5 New Tags     : audio, video,header,footer,nav
+                     mark, address,figure,caption,
+
+
+============================================
+UI/UX
+User Interface / User Experience
+---------------------------------
+Wireframe : visual representation of web doc
+Figma     :		
+
+UI  - HTML,CSS,Bootstrap, Javascript
+---------------------------------------------
