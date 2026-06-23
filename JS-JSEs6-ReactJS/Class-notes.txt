@@ -34,3 +34,43 @@ class
 object
 =========================
 Js Intro and How to execute?
+
+Javascript - Data Types
+
+Primitive DT		Non Primitive DT
+------------------------------------------
+Holding single vale     Multiple values
+			
+number			Object(JS Array and Js Object)
+string
+boolean
+undefined
+
+null
+symbol
+bigInt 
+=========================
+JS - Array  - []  / typeof
+-group of elements/values/objects as one entity
+-allowed duplicates
+-allowed heterogenesou
+-storing based on indexing
+-insertion order maintained
+-JS - array is Iteratable object
+- we can iterate using
+	a)for loop
+	b)while loop
+	c)do-while loop
+	d)for-of loop
+
+JS - Object / {}  / typeof 
+-->group of key:value pairs as one entity
+   group of properties(property name and value)
+-->duplicate keys are not allowed
+-->allowed heterogenous
+--> Indexing not applicable.
+--> Insertion order no guarantee.
+--> JS Object - not iterable
+    
+--> ES5 - New for loop ie: for-in loop 
+=====================================
