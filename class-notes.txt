@@ -1,4 +1,75 @@
 HTML 5 New Fetures & New Tags
 
 HTML 4                          HTML 5
--------------------------------------------------------
+--------------------------------------------------------
+
+
+User 1: Narasimha Bangalore
+https://www.flipkart.com/account/addresses
+
+User 2: Vijay  -New Delhi
+https://www.flipkart.com/account/addresses
+
+
+audio
+video
+
+mark
+address  -- 
+for display company loc/address
+instead of using text formating tags.
+
+address tag -- 
+Search Engine/Web Crawler easily identy the location company
+
+
+figure
+caption
+canvas & SVG
+
+input tag enhancements
+semantic elements
+====================================
+Iterative St in Js
+-------------------
+for loop
+while loop
+do-while loop
+for-of  -JS Array
+for-in  -Js Object
+
+WAP - print GM 5 times
+
+clg("GM")
+clg("GM")
+clg("GM")
+clg("GM")
+clg("GM")
+
+WAP print 1,2,3,4,5  for loop/while loop
+clg(1)
+clg(2)
+clg(3)
+clg(4)
+clg(5)
+
+1,2,3,4,5
+
+JS ES6 - New Features
+----------------------
+let,const
+${}  - String literal
+class
+()=>{}
+[]-new methods
+... : spread and rest
+Destucturing
+import/export
+async await
+Set Map
+
+${}  - String literal
+------------------------
+reading variable in the form of string.
+
+for constructing URL's - ${} : string literl
