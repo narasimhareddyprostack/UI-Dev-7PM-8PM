@@ -73,3 +73,49 @@ ${}  - String literal
 reading variable in the form of string.
 
 for constructing URL's - ${} : string literl
+=======================================
+while loop?
+
+intilization st
+while(){
+	st1
+	st2
+	..
+
+	incr/decr st
+}
+
+=======================================
+without css can we apply styles or not?
+1.Style Reusability
+2.Readability
+3.Modularity
+
+for applying style-html has some drawback?
+
+CSS - cascading style sheet 
+brining style from sheet(Css file)
+
+How many ways - can we  apply css?
+1.Inline CSS
+2.Internal CSS
+3.External CSS
+
+
+How many way		How to apply	   Reusability?
+--------------------------------------------------------
+1.Inline  CSS		style - attribute
+2.Intenal CSS		<style> element
+3.Extenal CSS		<link> Tag
+
+CSS Selector?
+--group of styles for reusability.
+Type of Selector?
+
+1.Tag/Element Selector
+2.Group of Tag Selector
+3.class Selector                    .
+4. Id Selector                      #
+5. group of tag,class & Id Selector
+6.Attribute Selector	            []		
+7.Universal Selector	             *
