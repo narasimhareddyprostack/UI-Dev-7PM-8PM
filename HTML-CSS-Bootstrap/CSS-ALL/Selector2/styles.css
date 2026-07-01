@@ -1,0 +1,21 @@
+a{
+    background-color: red;
+}
+
+/* a:last-child{
+    background-color: yellow;
+} */
+
+.sonal{
+    background-color: yellow;
+}
+a[target]{
+    background-color: yellow;
+}
+/* 
+    Universal Selector
+*/
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}

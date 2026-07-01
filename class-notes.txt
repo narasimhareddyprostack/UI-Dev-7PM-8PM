@@ -119,3 +119,17 @@ Type of Selector?
 5. group of tag,class & Id Selector
 6.Attribute Selector	            []		
 7.Universal Selector	             *
+
+---------------------------------------
+
+
+1.CSS Flex model vs Grid
+2.Bootstrap based on Grid(rows and column)
+3.CSS Media quereies
+4.Navbar - plain css
+
+Bootstrap? 
+Most popular HTML,css and Js library for
+Responsive Web design's
+
+What is RWD?

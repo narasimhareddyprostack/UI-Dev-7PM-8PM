@@ -107,3 +107,25 @@ How many way		How to apply	   Reusability?
 1.Inline  CSS		style - attribute
 2.Intenal CSS		<style> element
 3.Extenal CSS		<link> Tag
+
+CSS Selector?
+--group of styles for reusability.
+Type of Selector?
+
+1.Tag/Element Selector
+2.Group of Tag Selector
+3.class Selector                    .
+4. Id Selector                      #
+5. group of tag,class & Id Selector
+6.Attribute Selector	            []		
+7.Universal Selector	             *
+
+---------------------------------------
+
+
+1.CSS Flex model vs Grid
+2.Bootstrap based on Grid(rows and column)
+3.CSS Media quereies
+4.Navbar - plain css
+
+Bootstrap?
