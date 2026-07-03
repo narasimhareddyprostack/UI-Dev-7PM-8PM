@@ -10330,3 +10330,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+/*
+ styles adding by Narasimha
+*/
+.text-gold{
+  color:gold;
+}
