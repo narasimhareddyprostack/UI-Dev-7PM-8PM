@@ -1,0 +1,29 @@
+Bootstrap Component - carousel  slider
+======================================
+
+Step 1: royalty free images from pexels.com   1200*600 
+Step 2: Write carousel componet code 
+Step 3: add required links(cdn links) 
+Step 4: add jqeury code  to slide assets based interval time
+---------------------------------------------
+step 2: 
+carousel componet styles
+    .carousel{}
+    .carousel-inner{}
+    .carousel-item{}
+----------------------------------------------
+step 3: 4 cdn links
+a)bootstrap.css cdn link 
+b)bootstrap.js cdn link 
+c)popper.js cdn link 
+d)jquey.js cdn link 
+
+step 4:
+--------------------------------------------
+    <script>
+        $('.carousel').carousel({interval: 3000})
+    </script>
+
+
+
+
