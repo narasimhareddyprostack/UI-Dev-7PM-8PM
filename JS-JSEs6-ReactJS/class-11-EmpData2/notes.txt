@@ -1,0 +1,21 @@
+emp data - write/display in HTML Table format
+---------------------------------------------
+JS - Basics
+
+a)Operators
+b)JS Array and Object
+c)ES6 - ${} - string literal : reading variable in the of string
+d)functions
+e)events
+f)DOM properties
+
+What is compount Assignemnt Operators
+a=a+1
+a+=1
+
+What is DOM?
+-----------------------------
+document.getElementById('abc')
+document.getElementByTagName()
+document.getElementByClassName()
+document.qeuerySelector()

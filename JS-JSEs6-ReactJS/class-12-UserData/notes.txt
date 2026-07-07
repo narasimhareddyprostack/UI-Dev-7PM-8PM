@@ -1,0 +1,4 @@
+display user data in html table format
+
+Uer Id Name  Email City
+1      Rahul  

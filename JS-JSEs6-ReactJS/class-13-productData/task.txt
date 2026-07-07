@@ -1,0 +1,5 @@
+https://dummyjson.com/products
+
+display beauty products only - HTML Table format
+
+Product ID   Name    Price  Category Rating
