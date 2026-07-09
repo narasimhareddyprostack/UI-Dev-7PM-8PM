@@ -6,8 +6,8 @@ Europian Computer Manufacturing Asscociation
 What is ES6 - New Features?
 
 1.let,const
-2.()=>{}   //fat arrow or arrow function
-3. class   
+2.()=>{}
+3. class 
 4. ${}  - string literal
 5. [] new methods
    [].foreach()
