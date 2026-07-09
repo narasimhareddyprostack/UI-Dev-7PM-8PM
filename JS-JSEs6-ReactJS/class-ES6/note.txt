@@ -1,0 +1,28 @@
+JS - ES6?
+
+ECMAScript  
+ECMA
+Europian Computer Manufacturing Asscociation
+What is ES6 - New Features?
+
+1.let,const
+2.()=>{}
+3. class 
+4. ${}  - string literal
+5. [] new methods
+   [].foreach()
+   [].map()
+   [].filtr()
+   [].find()
+   [].reduce()
+6.Destructuring
+  Object Destructuring and Array Destructuring
+
+7.import / export 
+8. ...(triple dot ) -- spread and rest
+9.asynchrnous programming  using Javascript
+  1.callback
+  2.Promise
+  3.async and await
+
+10.Set, Map

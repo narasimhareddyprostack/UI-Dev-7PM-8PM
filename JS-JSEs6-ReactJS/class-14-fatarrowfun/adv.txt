@@ -2,8 +2,23 @@ What is fat Arrow function?
 
 alternative way to writing a function
 
+
 1.shorter/consice code 
 2.implicit return -function has only one st ie return
 3.this keyword return - empty object
 4.function overriding conflicts are resolved.
+
+to resolve - undefined
+
+let eids=[101,102,103,104]
+
+console.log(eids[8])//undefined
+
+UI   - undefined            : ()=>{}    
+Java - NullPointerException : Optional
+===========================================
+How to verify give array is empty or not?
+How to verify give Object is empty or not?
+How to print object in browser?
+
 
